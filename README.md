@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yusufozbilek
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Web scraping and mobile app development
-- 📫 How to reach me ...
+- 📫 You can reach me with yusuf.ozbilek@outlook.com
 
 <!---
 yusufozbilek/yusufozbilek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
